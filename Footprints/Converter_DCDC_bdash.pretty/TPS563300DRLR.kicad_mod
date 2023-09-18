@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "TPS563300 3.8-V to 28-V, 3-A Synchronous Buck Converter in SOT583 Package")
   (tags "SOT583")
-  (attr smd)
+  (attr smd allow_soldermask_bridges)
   (fp_text reference "REF**" (at 0 -2.33 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9462383d-fefe-438e-ae4b-147c07a75dbf)
