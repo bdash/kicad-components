@@ -1,0 +1,318 @@
+(footprint "Molex_Micro-Fit_3.0_43650-1112_1x11-1MP_P3.00mm_Horizontal_PnP"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "43650-11(12,13,14)")
+	(tags "Connector")
+	(property "Reference" "J**"
+		(at 0 14.82 0)
+		(layer "F.SilkS")
+		(uuid "4bd33c66-1efe-42de-b356-0f12500136e8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "43650-11(12,13,14)"
+		(at 0.06 12.22 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "454341d6-693d-4672-892c-47be19bdc4a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62022e5b-5159-4f7b-abb6-50870db21a90")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/43650-1112.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2fecc3b6-b398-4e13-893e-952c648a7460")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 11 Circuits, with Solder Tab, Glow-Wire Capable, Black, Tape and Reel"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aed86659-6ac8-4ee2-97d0-62c02d57dea9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 18.325 9.75)
+		(end -18.325 9.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3bc0298-c607-4ee6-8f92-0dad746632a6")
+	)
+	(fp_line
+		(start 19 0)
+		(end 20 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e218fba-750c-4a41-b48b-ebd341e7ff98")
+	)
+	(fp_line
+		(start 20 -0.5)
+		(end 20 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f2464221-8fcd-4b57-a29a-29eb0cd0fae5")
+	)
+	(fp_line
+		(start 20 0.5)
+		(end 19 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a2c536a8-e11e-4a97-b795-b76616df5a06")
+	)
+	(fp_line
+		(start -21.8192 -2.6792)
+		(end 21.8192 -2.6792)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "edc0fe79-1ec4-4c17-8ba0-efad4ae3d942")
+	)
+	(fp_line
+		(start -21.8192 11.02)
+		(end -21.8192 -2.6792)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "96c98c89-4d75-468b-8020-f31b59638d15")
+	)
+	(fp_line
+		(start 21.8192 -2.6792)
+		(end 21.8192 11.02)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f0e4a4b3-b8e0-4860-b4e1-0f5374b2768d")
+	)
+	(fp_line
+		(start 21.8192 11.02)
+		(end -21.8192 11.02)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1f89af7d-08b1-4386-8e76-ce1ae243f2ce")
+	)
+	(fp_line
+		(start -18.325 -0.15)
+		(end 18.325 -0.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bebc4e89-b916-4bcf-b5db-7bf7370cba43")
+	)
+	(fp_line
+		(start -18.325 9.75)
+		(end -18.325 -0.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e73b251a-d127-411e-aaa1-8cd6e2babcba")
+	)
+	(fp_line
+		(start 18.325 -0.15)
+		(end 18.325 9.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bc218ab0-a573-4b51-a7de-0866ef77c497")
+	)
+	(fp_line
+		(start 18.325 9.75)
+		(end -18.325 9.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "deeacd63-9dc1-4257-9520-4718bb81ee11")
+	)
+	(fp_line
+		(start 19 0)
+		(end 20 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7246d129-c516-4294-8c3f-e58e4aa254ec")
+	)
+	(fp_line
+		(start 20 -0.5)
+		(end 20 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b109a878-50e0-4c41-9966-d8d1c14d030a")
+	)
+	(fp_line
+		(start 20 0.5)
+		(end 19 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0479d199-cc80-4223-89d9-2b9007018060")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "c3572698-b6b0-4d07-b01d-1b03cf0f46a8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "" smd rect
+		(at -18.885 5.47 90)
+		(size 1.65 3.43)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ce3447a4-7a02-4dc7-ad3f-cd9ca3d484cc")
+	)
+	(pad "" smd rect
+		(at 18.885 5.47 90)
+		(size 1.65 3.43)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f1083da0-27b2-4201-81e1-fc728c2df54c")
+	)
+	(pad "1" smd rect
+		(at 15 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "1c9bdc61-b9d8-4a7a-9bc8-107b26b76843")
+	)
+	(pad "2" smd rect
+		(at 12 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "87f4874e-bb21-4756-a091-02c1b4aa50b4")
+	)
+	(pad "3" smd rect
+		(at 9 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "89967bf2-8676-4dc3-96ab-2c8bd50fd8ef")
+	)
+	(pad "4" smd rect
+		(at 6 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0416dd63-d4c0-4fd4-973f-3a8ccd20617f")
+	)
+	(pad "5" smd rect
+		(at 3 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "5de60350-c98b-4bcd-894d-7102e96311f3")
+	)
+	(pad "6" smd rect
+		(at 0 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "7404e400-c463-4a4f-b8b2-aef11865a74f")
+	)
+	(pad "7" smd rect
+		(at -3 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "631cc91c-f370-4d4b-a785-abaad8474c8d")
+	)
+	(pad "8" smd rect
+		(at -6 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6fa118dd-8e2b-4534-a1f0-de8d327c3060")
+	)
+	(pad "9" smd rect
+		(at -9 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ca27c76e-c4e2-486f-8487-c7a9afa17bdb")
+	)
+	(pad "10" smd rect
+		(at -12 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8944f53d-543a-417e-a76d-b1433378d3b6")
+	)
+	(pad "11" smd rect
+		(at -15 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0e9bae3c-a712-47d9-a684-e6235568797d")
+	)
+	(model "${KIPRJMOD}/Components/3D Models/Molex_Micro-Fit_3.0_43650-1112_1x11-1MP_P3.00mm_Horizontal_PnP.stp"
+		(offset
+			(xyz 0 -5.1 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

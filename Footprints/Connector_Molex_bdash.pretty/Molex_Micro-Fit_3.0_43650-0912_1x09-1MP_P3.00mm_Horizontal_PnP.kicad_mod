@@ -1,0 +1,306 @@
+(footprint "Molex_Micro-Fit_3.0_43650-0912_1x09-1MP_P3.00mm_Horizontal_PnP"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "43650-09(12,13,14)")
+	(tags "Connector")
+	(property "Reference" "J**"
+		(at 0 12.46 0)
+		(layer "F.SilkS")
+		(uuid "ad04765a-bbb5-4b54-b237-a7c3b0f5dc1f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "43650-09(12,13,14)"
+		(at 0 14.7 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "cafefcbe-103a-4f34-981e-2aeb2088afd3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "851ea742-1e39-410b-933a-d15484a8aa4a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.molex.com/pdm_docs/sd/436500212_sd.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a079414-e9a0-4619-a934-1a786682abbe")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Micro-Fit 3.0 Right-Angle Header, 3.00mm Pitch, Single Row, 9 Circuits, with Solder Tab, Glow-Wire Capable, Black, Tape and Reel"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3664dfe2-a60c-44f7-afed-fbf1de5a43f4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 15.325 9.75)
+		(end -15.325 9.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f541f0bf-612d-4097-ba4b-b8c49d4b664e")
+	)
+	(fp_line
+		(start 16 0)
+		(end 17 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "501130d2-b285-44a9-8e2a-3da00d7225f7")
+	)
+	(fp_line
+		(start 17 -0.5)
+		(end 17 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b35fe60-318f-467c-aa2b-7b0365d0ac82")
+	)
+	(fp_line
+		(start 17 0.5)
+		(end 16 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "49e545ef-0427-46aa-a410-a954639b0ca4")
+	)
+	(fp_line
+		(start -18.8192 -2.6792)
+		(end 18.8192 -2.6792)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e96a720f-3abd-4c46-88ce-0893263fccba")
+	)
+	(fp_line
+		(start -18.8192 11.02)
+		(end -18.8192 -2.6792)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cacb76bd-9651-4935-9c0b-bbdb9a1e0d26")
+	)
+	(fp_line
+		(start 18.8192 -2.6792)
+		(end 18.8192 11.02)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "69f4f52e-6da3-4a29-a2a4-108a1ae73df8")
+	)
+	(fp_line
+		(start 18.8192 11.02)
+		(end -18.8192 11.02)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cd3326c9-776c-4d90-ab1d-b3ebc533d8f4")
+	)
+	(fp_line
+		(start -15.325 -0.15)
+		(end 15.325 -0.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "84baa35f-f15d-4b8f-a9da-8c6caccf8f35")
+	)
+	(fp_line
+		(start -15.325 9.75)
+		(end -15.325 -0.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f6dbddbc-2da4-46d9-a26d-2e862cfde8b0")
+	)
+	(fp_line
+		(start 15.325 -0.15)
+		(end 15.325 9.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "90cc6f31-87e3-47a4-a627-7967bf83e116")
+	)
+	(fp_line
+		(start 15.325 9.75)
+		(end -15.325 9.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8969b837-4bee-4a6d-a2d2-dc2517cac0a7")
+	)
+	(fp_line
+		(start 16 0)
+		(end 17 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7251ac91-b296-45c2-b9c1-73d054616755")
+	)
+	(fp_line
+		(start 17 -0.5)
+		(end 17 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d8d3f0bb-1e97-4786-b8ad-547c6af3aee4")
+	)
+	(fp_line
+		(start 17 0.5)
+		(end 16 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c65fb07f-7a7d-48c5-ba95-c21ec201f046")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "53d4acee-e46c-4c3e-8f64-9f1cdb3dc26e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "" smd rect
+		(at -15.885 5.47 90)
+		(size 1.65 3.43)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6979b696-97f0-4c47-a54f-57ea23025feb")
+	)
+	(pad "" smd rect
+		(at 15.885 5.47 90)
+		(size 1.65 3.43)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "476512b1-c26c-4e41-ab43-0f44ef458f10")
+	)
+	(pad "1" smd rect
+		(at 12 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "21c998c5-ede9-464e-b689-e6da76580529")
+	)
+	(pad "2" smd rect
+		(at 9 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d3cfdf5d-5a38-416c-9f23-bb40773de8e3")
+	)
+	(pad "3" smd rect
+		(at 6 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "c5665038-c383-432d-afab-1b8350ff48b1")
+	)
+	(pad "4" smd rect
+		(at 3 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e7ae5cae-d3b6-4a0a-9aaf-8898b62d69e9")
+	)
+	(pad "5" smd rect
+		(at 0 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "39043e76-054d-4542-a16b-704f3a9cc038")
+	)
+	(pad "6" smd rect
+		(at -3 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e08f3b24-1c33-4fd3-bb37-f6ce7f03c269")
+	)
+	(pad "7" smd rect
+		(at -6 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4c3d7684-8cb6-40d2-a006-31789067390a")
+	)
+	(pad "8" smd rect
+		(at -9 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f0096d06-ea56-47ac-80d2-22a8c05a89c8")
+	)
+	(pad "9" smd rect
+		(at -12 0)
+		(size 1.27 2.92)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ed2bbc67-7751-4f82-ab74-2d72d3c08ac4")
+	)
+	(model "${KIPRJMOD}/Components/3D Models/Molex_Micro-Fit_3.0_43650-0912_1x09-1MP_P3.00mm_Horizontal_PnP.stp"
+		(offset
+			(xyz 0 -5.1 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
