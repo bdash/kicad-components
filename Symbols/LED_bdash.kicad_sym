@@ -352,7 +352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Mid-Power LEDs - White White 5700 K 70-CRI, LUXEON 2835 Line "
+		(property "Description" "Mid-Power LEDs - White White 5700 K 70-CRI, LUXEON 2835 Line"
 			(at 0 0 0)
 			(effects
 				(font
