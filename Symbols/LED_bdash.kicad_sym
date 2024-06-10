@@ -225,6 +225,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB Part #" "C17245779"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "LED diode"
 			(at 0 0 0)
 			(effects
@@ -362,6 +371,15 @@
 			)
 		)
 		(property "MPN" "L128-5770003500000"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C17613298"
 			(at 0 0 0)
 			(effects
 				(font
@@ -726,6 +744,15 @@
 			)
 		)
 		(property "MPN" "L128-GRN1003500000"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C7503093"
 			(at 0 0 0)
 			(effects
 				(font
